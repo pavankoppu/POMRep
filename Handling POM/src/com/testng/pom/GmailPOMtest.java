@@ -10,6 +10,7 @@ import com.testng.pages.GmailPOM;
 
 public class GmailPOMtest {
 	
+//webdriver
 	WebDriver driver;
 	
 	
